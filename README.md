@@ -74,7 +74,7 @@ pip install -r requirements.txt
 Start the API:
 
 ```bash
-python -m uvicorn main:app --reload
+python -m uvicorn main:app
 ```
 
 The API will be available at:
